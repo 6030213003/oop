@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package project;
+package javaapplication12;
 
 //import java.util.Scanner;
 public class login {
